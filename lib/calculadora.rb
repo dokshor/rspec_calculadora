@@ -1,7 +1,7 @@
 ##
 # Esta clase actúa como un objeto de calculadora
 # Author::    Fabian Ramirez
-# Copyright:: Copyright (c) 2012 Inzpiral
+# Copyright:: Copyright (c) 2012
 #
 
 class Calculadora
