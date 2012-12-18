@@ -1,6 +1,6 @@
 ##
 # Esta clase actúa como un objeto de calculadora
-# Author::    Fabian Ramirez  (mailto:fabian.ramirez@inzpiral.com)
+# Author::    Fabian Ramirez
 # Copyright:: Copyright (c) 2012 Inzpiral
 #
 
